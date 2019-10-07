@@ -1,2 +1,1 @@
-# dm_training_2019
-DevOps Training 2019
+# Work in progress mono repo 
